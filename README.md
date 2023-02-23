@@ -1,5 +1,5 @@
 # Python 6 Data Science
-## HomeWork # 05
+## HomeWork # 06
 
 [![Language](https://img.shields.io/badge/language-python-blue)](https://www.python.org)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VlodyaKr/Python-6-Data-Science-HomeWork-06)
